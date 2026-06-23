@@ -47,6 +47,3 @@ The system reads analog data from a temperature sensor connected to the ESP32 AD
 ## Educational Purpose
 
 This project was developed as a practical exercise for learning embedded systems programming, sensor interfacing, ADC acquisition, and real-time task management on the ESP32 platform.
-
-
-Student Embedded Systems Project
