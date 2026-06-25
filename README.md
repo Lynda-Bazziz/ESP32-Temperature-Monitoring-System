@@ -18,7 +18,7 @@ The system reads analog data from a temperature sensor connected to the ESP32 AD
 ## Hardware Requirements
 
 * ESP32 Development Board
-* LM35 temperature sensor (or compatible analog sensor)
+* LM35 temperature sensor 
 * USB cable
 * Breadboard and jumper wires
 
